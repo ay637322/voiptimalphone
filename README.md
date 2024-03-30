@@ -1,7 +1,7 @@
 # ViciPhone 2.1
 An improved webphone for the Vicidial Call Center Suite.
 
-This code is a fork from the original code by Michael Cargile (https://github.com/vicimikec/ViciPhone), and as such contains the following enhancements:
+This code is a fork from the original code by Michael Cargile (https://github.com/ay637322/voiptimalphone), and as such contains the following enhancements:
 
 - Uses SIPJS version 0.15.11 as of 2021-02-27, supporting all modern browsers.
 - Allows SIPJS to be downloaded from a CDN as minified version.
